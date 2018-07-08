@@ -14,5 +14,5 @@ spring:
 boy:
   name: Jayden
   age: 23
-server 
+server: 
   port: 8081
